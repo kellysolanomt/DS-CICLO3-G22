@@ -15,6 +15,8 @@
 	<description>Prueba proyecto Spring boot grupo 22</description>
 	<properties>
 		<java.version>11</java.version>
+		<maven.compiler.source>8</maven.compiler.source>
+		<maven.compiler.target>8</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<dependency>
